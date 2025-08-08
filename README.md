@@ -1,4 +1,4 @@
-# LLM Fine-tune Guide
+# LLM Fine-tuning Guide
 
 ## Virtual Environment and Dependencies
 
@@ -13,10 +13,6 @@ source .venv/bin/activate
 3. Deactivate
 ```bash
 deactivate  
-```
-4. Install dependencies
-```bash
-pip install unsloth trl peft accelerate bitsandbytes torch
 ```
 
 ## Fine Tuning the Model
@@ -62,6 +58,7 @@ ollama list
 ```bash
 ollama run <name-of-the-model>
 ```
+
 ## Create a Gradio Interface
 
 1. Install dependencies

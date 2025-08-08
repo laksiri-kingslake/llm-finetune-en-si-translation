@@ -1,0 +1,502 @@
+[
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Hello, how are you?",
+    "output": "හෙලෝ, ඔබට කොහොම ද?"
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "I am going to school.",
+    "output": "මම පාසලට යනවා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "What is your name?",
+    "output": "ඔබගේ නම කුමක්ද?"
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "My name is Nimal.",
+    "output": "මගේ නම නිමල්."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "I like to read books.",
+    "output": "මම පොත් කියවන්න කැමතියි."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "She is a good teacher.",
+    "output": "ඇය හොඳ ගුරුවරියක්."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "We live in Colombo.",
+    "output": "අපි කොළඹ ජීවත්වෙනවා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "The dog is barking.",
+    "output": "බල්ලා බයයි."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Please open the door.",
+    "output": "කරුණාකර දොරය අරින්න."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "It is raining now.",
+    "output": "දැන් වැස්ස වස්සනවා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Can I help you?",
+    "output": "මම ඔබට උදව් කළ හැක්කේ ද?"
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "I am very hungry.",
+    "output": "මම ගොඩක් බඩගිනියි."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Do you speak English?",
+    "output": "ඔබට ඉංග්‍රීසි කතා කළ හැකිද?"
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "He went to the market.",
+    "output": "ඔහු වෙළඳපොළට ගියා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "This is my house.",
+    "output": "මේක මගේ ගෙදර."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "I will call you later.",
+    "output": "මම පස්සේ ඔබට ඇමතුමක් දෙනවා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "We are friends.",
+    "output": "අපි යාළුවන්."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Please sit down.",
+    "output": "කරුණාකර ඉඳගෙන සිටින්න."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "The book is on the table.",
+    "output": "පොත මේසෙමයි."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "What time is it?",
+    "output": "දැන් වේලාව කීයද?"
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Close the window.",
+    "output": "ජනේලය වහන්න."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "They are playing cricket.",
+    "output": "ඔවුන් ක්‍රිකට් ක්‍රීඩා කරනවා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "I don't understand.",
+    "output": "මට තේරෙන්නේ නැහැ."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Where are you going?",
+    "output": "ඔබ කොහෙද යන්නේ?"
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "I need some water.",
+    "output": "මට ටිකක් වතුර ඕනෙ."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Let's go home.",
+    "output": "අපි ගෙදර යමු."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Don't be afraid.",
+    "output": "බය වෙන්න එපා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Call me tomorrow.",
+    "output": "මට හෙට ඇමතුමක් දෙන්න."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Where is the bus stop?",
+    "output": "බස් නැවතුම කොහෙද?"
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "This is delicious.",
+    "output": "මෙය රසයි."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "I love Sri Lanka.",
+    "output": "මම ශ්‍රී ලංකාවට ආදරෙයි."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Give me your phone number.",
+    "output": "ඔබගේ දුරකථන අංකය දෙන්න."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "The train is late.",
+    "output": "දුම්රිය පසු වනවා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "I am tired.",
+    "output": "මම වෙහෙසලා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Do you have change?",
+    "output": "ඔබට හුවමාරු මුදල් තියෙනවද?"
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Happy birthday!",
+    "output": "සුභ උපන්දිනයක් වේවා!"
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "I will be back soon.",
+    "output": "මම ඉක්මනින් ආපසු එනවා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Can you show me the way?",
+    "output": "ඔබට මට මාර්ගය පෙන්වන්න පුළුවන්ද?"
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "I don’t know.",
+    "output": "මට නොදනි."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Where do you work?",
+    "output": "ඔබ කොහෙද වැඩ කරන්නෙ?"
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "What are you doing?",
+    "output": "ඔබ මේ කරනෙ කුමක්ද?"
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "I am cooking rice.",
+    "output": "මම බත් උයනවා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "The child is sleeping.",
+    "output": "ළමයා නිදාගෙන ඉන්නවා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "I am reading a newspaper.",
+    "output": "මම පුවත්පතක් කියවමින් සිටිනවා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "He is watching TV.",
+    "output": "ඔහු රූපවාහිනිය නරඹනවා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Where is my pen?",
+    "output": "මගේ පෑන කොහෙද?"
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Do you need help?",
+    "output": "ඔබට උදව්වක් ඕනද?"
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "She is dancing beautifully.",
+    "output": "ඇය ලස්සනට නටනවා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "We are going on a trip.",
+    "output": "අපි ගමනක් යනවා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "The train arrives at 5 PM.",
+    "output": "දුම්රිය පස්වරු 5ට එනවා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "My brother is a doctor.",
+    "output": "මගේ අයියා වෛද්‍යවරයෙක්."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "This place is very beautiful.",
+    "output": "මෙම තැන ඉතාම ලස්සනයි."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "I lost my wallet.",
+    "output": "මගේ මුදල් පසුම්බිය නැතිවෙලා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Can you speak slowly?",
+    "output": "ඔබට සෙරින කතා කළ හැකිද?"
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "This is too expensive.",
+    "output": "මෙය ගොඩක් මිල අධිකයි."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "We will meet tomorrow.",
+    "output": "අපි හෙට හමුවෙමු."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Don’t forget your umbrella.",
+    "output": "ඔබගේ කූඩාරම අමතක කරන්න එපා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Please wait here.",
+    "output": "කරුණාකර මෙහි සිටින්න."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Is this your book?",
+    "output": "මෙය ඔබගේ පොතද?"
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "The food is very spicy.",
+    "output": "ආහාරය ඉතාම කටුකයි."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "What are you doing?",
+    "output": "ඔබ මේ කරනෙ කුමක්ද?"
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "I am cooking rice.",
+    "output": "මම බත් උයනවා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "The child is sleeping.",
+    "output": "ළමයා නිදාගෙන ඉන්නවා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "I am reading a newspaper.",
+    "output": "මම පුවත්පතක් කියවමින් සිටිනවා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "He is watching TV.",
+    "output": "ඔහු රූපවාහිනිය නරඹනවා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Where is my pen?",
+    "output": "මගේ පෑන කොහෙද?"
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Do you need help?",
+    "output": "ඔබට උදව්වක් ඕනද?"
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "She is dancing beautifully.",
+    "output": "ඇය ලස්සනට නටනවා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "We are going on a trip.",
+    "output": "අපි ගමනක් යනවා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "The train arrives at 5 PM.",
+    "output": "දුම්රිය පස්වරු 5ට එනවා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "My brother is a doctor.",
+    "output": "මගේ අයියා වෛද්‍යවරයෙක්."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "This place is very beautiful.",
+    "output": "මෙම තැන ඉතාම ලස්සනයි."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "I lost my wallet.",
+    "output": "මගේ මුදල් පසුම්බිය නැතිවෙලා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Can you speak slowly?",
+    "output": "ඔබට සෙරින කතා කළ හැකිද?"
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "This is too expensive.",
+    "output": "මෙය ගොඩක් මිල අධිකයි."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "We will meet tomorrow.",
+    "output": "අපි හෙට හමුවෙමු."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Don’t forget your umbrella.",
+    "output": "ඔබගේ කූඩාරම අමතක කරන්න එපා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Please wait here.",
+    "output": "කරුණාකර මෙහි සිටින්න."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Is this your book?",
+    "output": "මෙය ඔබගේ පොතද?"
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "The food is very spicy.",
+    "output": "ආහාරය ඉතාම කටුකයි."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "What are you doing?",
+    "output": "ඔබ මේ කරනෙ කුමක්ද?"
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "I am cooking rice.",
+    "output": "මම බත් උයනවා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "The child is sleeping.",
+    "output": "ළමයා නිදාගෙන ඉන්නවා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "I am reading a newspaper.",
+    "output": "මම පුවත්පතක් කියවමින් සිටිනවා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "He is watching TV.",
+    "output": "ඔහු රූපවාහිනිය නරඹනවා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Where is my pen?",
+    "output": "මගේ පෑන කොහෙද?"
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Do you need help?",
+    "output": "ඔබට උදව්වක් ඕනද?"
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "She is dancing beautifully.",
+    "output": "ඇය ලස්සනට නටනවා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "We are going on a trip.",
+    "output": "අපි ගමනක් යනවා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "The train arrives at 5 PM.",
+    "output": "දුම්රිය පස්වරු 5ට එනවා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "My brother is a doctor.",
+    "output": "මගේ අයියා වෛද්‍යවරයෙක්."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "This place is very beautiful.",
+    "output": "මෙම තැන ඉතාම ලස්සනයි."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "I lost my wallet.",
+    "output": "මගේ මුදල් පසුම්බිය නැතිවෙලා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Can you speak slowly?",
+    "output": "ඔබට සෙරින කතා කළ හැකිද?"
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "This is too expensive.",
+    "output": "මෙය ගොඩක් මිල අධිකයි."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "We will meet tomorrow.",
+    "output": "අපි හෙට හමුවෙමු."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Don’t forget your umbrella.",
+    "output": "ඔබගේ කූඩාරම අමතක කරන්න එපා."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Please wait here.",
+    "output": "කරුණාකර මෙහි සිටින්න."
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "Is this your book?",
+    "output": "මෙය ඔබගේ පොතද?"
+  },
+  {
+    "instruction": "Translate the following English sentence to Sinhala:",
+    "input": "The food is very spicy.",
+    "output": "ආහාරය ඉතාම කටුකයි."
+  }
+]
